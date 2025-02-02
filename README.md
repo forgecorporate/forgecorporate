@@ -1,5 +1,5 @@
 # ForgeCorporate eCommerce Store
-![ForgeCorporate Logo](https://drive.google.com/file/d/1lHLRJ2erlv0p58fr7MGVAkP1A4mhw2e2/view?usp=sharing)
+![ForgeCorporate Logo](https://theforgecorporation.netlify.app/logo.png)
 
 Welcome to the **ForgeCorporate** GitHub repository! This repository powers our **eCommerce store**, specializing in **sportswear, leather goods, and shoes**. Our mission is to deliver high-quality, stylish, and durable products to customers worldwide.
 
